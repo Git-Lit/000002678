@@ -1,3 +1,7 @@
+---
+layout: default
+title: Abelard to Eloisa: a poetic epistle. Newly attempted
+---
 <!-- This file was created from text provided by the British Library. --> 
 
 
